@@ -12,7 +12,7 @@ El objetivo de este proyecto es practicar la creación e interpretación de dife
 
 ---
 
-### ¿Qué vino prefieres, tinto o blanco? Veamos cuál es mejor.....
+# ¿Qué vino prefieres, tinto o blanco? Veamos cuál es mejor.....
 
 En este estudio analizamos el vino tinto y el vino blanco por separado para averiguar cuál es mejor en función de sus elementos
 
@@ -31,9 +31,9 @@ En este estudio analizamos el vino tinto y el vino blanco por separado para aver
 
 ### · Eleccion del dataset:
 
-a. https://archive.ics.uci.edu/ml/datasets/Wine+Quality 
-b. Dos dataset, uno de vinos tintos y otro de vinos blancos
-c. Trabajamos primero los dos por separado
+* a. https://archive.ics.uci.edu/ml/datasets/Wine+Quality 
+* b. Dos dataset, uno de vinos tintos y otro de vinos blancos
+* c. Trabajamos primero los dos por separado
 
 
 ## Estructura de ficheros
@@ -46,19 +46,19 @@ c. Trabajamos primero los dos por separado
 
 ## Información del dataset
 
-1 - fixed acidity 
-2 - volatile acidity 
-3 - citric acid 
-4 - residual sugar 
-5 - chlorides 
-6 - free sulfur dioxide 
-7 - total sulfur dioxide 
-8 - density 
-9 - pH 
-10 - sulphates 
-11 - alcohol 
-Output variable (based on sensory data): 
-12 - quality (score between 0 and 10)
+* 1 - fixed acidity 
+* 2 - volatile acidity 
+* 3 - citric acid 
+* 4 - residual sugar 
+* 5 - chlorides 
+* 6 - free sulfur dioxide 
+* 7 - total sulfur dioxide 
+* 8 - density 
+* 9 - pH 
+* 10 - sulphates 
+* 11 - alcohol 
+* Output variable (based on sensory data): 
+* 12 - quality (score between 0 and 10)
 
 
 
